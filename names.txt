@@ -1,0 +1,2 @@
+"add(mul(bid1,ask1),div(bid1,ask1))",
+"square(add(mul(bid1,ask1),div(bid1,ask1)))",
